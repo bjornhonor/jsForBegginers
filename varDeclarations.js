@@ -1,3 +1,5 @@
+//always prefer let, its a upgrade of var. Its a scope var while var is a global var
+//const value cannot change, it will storage the value you wrote in its initialization for the rest of the day
 // sempre use let, é uma melhoria do var
 // const é uma constante, ou seja uma variavel cujo o valor nao pode ser alterado
 
